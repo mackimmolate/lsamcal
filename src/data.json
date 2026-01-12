@@ -1,0 +1,442 @@
+{
+  "materials": [
+    {
+      "id": "s150cf",
+      "name": "S-150CF",
+      "properties": {
+        "price": {
+          "label": "Price (EUR per kg)",
+          "value": 20.9,
+          "unit": ""
+        },
+        "base_polymer": {
+          "label": "Base Polymer",
+          "value": "Modified ABS",
+          "unit": ""
+        },
+        "reinforcement": {
+          "label": "Reinforcement",
+          "value": "20% Carbon Fiber",
+          "unit": ""
+        },
+        "density": {
+          "label": "Density (Printed) g/cc",
+          "value": 1.11,
+          "unit": ""
+        },
+        "tensile_strength": {
+          "label": "Tensile Strength (MPa)",
+          "value": "81 / 26",
+          "unit": ""
+        },
+        "tensile_modulus": {
+          "label": "Tensile Modulus (GPa)",
+          "value": "11.0 / 3.6",
+          "unit": ""
+        },
+        "flexural_strength": {
+          "label": "Flexural Strength (MPa)",
+          "value": "140 / 47",
+          "unit": ""
+        },
+        "compressive_strength": {
+          "label": "Compressive Strength (MPa)",
+          "value": "109.7 / 100.1",
+          "unit": ""
+        },
+        "hdt": {
+          "label": "HDT @ 1.82 MPa",
+          "value": "101\u00b0C",
+          "unit": ""
+        },
+        "tg": {
+          "label": "Tg (Tan Delta)",
+          "value": "124\u00b0C",
+          "unit": ""
+        },
+        "cte_x": {
+          "label": "CTE X (ppm/\u00b0C)",
+          "value": "14.68",
+          "unit": ""
+        },
+        "cte_z": {
+          "label": "CTE Z (ppm/\u00b0C)",
+          "value": "151.87",
+          "unit": ""
+        },
+        "vert_layer_time": {
+          "label": "Vertical Layer Time (min)",
+          "value": "01:00:00",
+          "unit": ""
+        },
+        "vert_temp": {
+          "label": "Vertical Temp (Handheld)",
+          "value": "198\u00b0C",
+          "unit": ""
+        },
+        "oh_layer_time": {
+          "label": "Overhang Layer Time (min)",
+          "value": "02:00:00",
+          "unit": ""
+        },
+        "oh_temp": {
+          "label": "Overhang Temp (Handheld)",
+          "value": "175\u00b0C",
+          "unit": ""
+        }
+      }
+    },
+    {
+      "id": "c250cf",
+      "name": "C-250CF",
+      "properties": {
+        "price": {
+          "label": "Price (EUR per kg)",
+          "value": 23.26,
+          "unit": ""
+        },
+        "base_polymer": {
+          "label": "Base Polymer",
+          "value": "Modified PC",
+          "unit": ""
+        },
+        "reinforcement": {
+          "label": "Reinforcement",
+          "value": "20% Carbon Fiber",
+          "unit": ""
+        },
+        "density": {
+          "label": "Density (Printed) g/cc",
+          "value": 1.21,
+          "unit": ""
+        },
+        "tensile_strength": {
+          "label": "Tensile Strength (MPa)",
+          "value": "112.4 / 50.3",
+          "unit": ""
+        },
+        "tensile_modulus": {
+          "label": "Tensile Modulus (GPa)",
+          "value": "11 / 3.0",
+          "unit": ""
+        },
+        "flexural_strength": {
+          "label": "Flexural Strength (MPa)",
+          "value": "180 / 93.8",
+          "unit": ""
+        },
+        "compressive_strength": {
+          "label": "Compressive Strength (MPa)",
+          "value": "141.0 / 113.7",
+          "unit": ""
+        },
+        "hdt": {
+          "label": "HDT @ 1.82 MPa",
+          "value": "144\u00b0C",
+          "unit": ""
+        },
+        "tg": {
+          "label": "Tg (Tan Delta)",
+          "value": "163\u00b0C",
+          "unit": ""
+        },
+        "cte_x": {
+          "label": "CTE X (ppm/\u00b0C)",
+          "value": "10.88",
+          "unit": ""
+        },
+        "cte_z": {
+          "label": "CTE Z (ppm/\u00b0C)",
+          "value": "110.07",
+          "unit": ""
+        },
+        "vert_layer_time": {
+          "label": "Vertical Layer Time (min)",
+          "value": "02:15:00",
+          "unit": ""
+        },
+        "vert_temp": {
+          "label": "Vertical Temp (Handheld)",
+          "value": "190\u00b0C",
+          "unit": ""
+        },
+        "oh_layer_time": {
+          "label": "Overhang Layer Time (min)",
+          "value": "02:45:00",
+          "unit": ""
+        },
+        "oh_temp": {
+          "label": "Overhang Temp (Handheld)",
+          "value": "173\u00b0C",
+          "unit": ""
+        }
+      }
+    },
+    {
+      "id": "c250gf",
+      "name": "C-250GF",
+      "properties": {
+        "price": {
+          "label": "Price (EUR per kg)",
+          "value": 14.13,
+          "unit": ""
+        },
+        "base_polymer": {
+          "label": "Base Polymer",
+          "value": "Modified PC",
+          "unit": ""
+        },
+        "reinforcement": {
+          "label": "Reinforcement",
+          "value": "20% Glass Fiber",
+          "unit": ""
+        },
+        "density": {
+          "label": "Density (Printed) g/cc",
+          "value": 1.24,
+          "unit": ""
+        },
+        "tensile_strength": {
+          "label": "Tensile Strength (MPa)",
+          "value": "84.8 / 50.3",
+          "unit": ""
+        },
+        "tensile_modulus": {
+          "label": "Tensile Modulus (GPa)",
+          "value": "5.24 / 3.03",
+          "unit": ""
+        },
+        "flexural_strength": {
+          "label": "Flexural Strength (MPa)",
+          "value": "139.3 / 115.1",
+          "unit": ""
+        },
+        "compressive_strength": {
+          "label": "Compressive Strength (MPa)",
+          "value": "118.6 / 169.6",
+          "unit": ""
+        },
+        "hdt": {
+          "label": "HDT @ 1.82 MPa",
+          "value": "144\u00b0C",
+          "unit": ""
+        },
+        "tg": {
+          "label": "Tg (Tan Delta)",
+          "value": "163\u00b0C",
+          "unit": ""
+        },
+        "cte_x": {
+          "label": "CTE X (ppm/\u00b0C)",
+          "value": "29.26",
+          "unit": ""
+        },
+        "cte_z": {
+          "label": "CTE Z (ppm/\u00b0C)",
+          "value": "95.72",
+          "unit": ""
+        },
+        "vert_layer_time": {
+          "label": "Vertical Layer Time (min)",
+          "value": "02:15:00",
+          "unit": ""
+        },
+        "vert_temp": {
+          "label": "Vertical Temp (Handheld)",
+          "value": "190\u00b0C",
+          "unit": ""
+        },
+        "oh_layer_time": {
+          "label": "Overhang Layer Time (min)",
+          "value": "03:30:00",
+          "unit": ""
+        },
+        "oh_temp": {
+          "label": "Overhang Temp (Handheld)",
+          "value": "164\u00b0C",
+          "unit": ""
+        }
+      }
+    },
+    {
+      "id": "i350cf",
+      "name": "I-350CF",
+      "properties": {
+        "price": {
+          "label": "Price (EUR per kg)",
+          "value": 47.02,
+          "unit": ""
+        },
+        "base_polymer": {
+          "label": "Base Polymer",
+          "value": "Modified PEI",
+          "unit": ""
+        },
+        "reinforcement": {
+          "label": "Reinforcement",
+          "value": "20% Carbon Fiber",
+          "unit": ""
+        },
+        "density": {
+          "label": "Density (Printed) g/cc",
+          "value": 1.15,
+          "unit": ""
+        },
+        "tensile_strength": {
+          "label": "Tensile Strength (MPa)",
+          "value": "126 / 68",
+          "unit": ""
+        },
+        "tensile_modulus": {
+          "label": "Tensile Modulus (GPa)",
+          "value": "11.7 / 3.8",
+          "unit": ""
+        },
+        "flexural_strength": {
+          "label": "Flexural Strength (MPa)",
+          "value": "194 / 107",
+          "unit": ""
+        },
+        "compressive_strength": {
+          "label": "Compressive Strength (MPa)",
+          "value": "186.3 / 146.6",
+          "unit": ""
+        },
+        "hdt": {
+          "label": "HDT @ 1.82 MPa",
+          "value": "212\u00b0C",
+          "unit": ""
+        },
+        "tg": {
+          "label": "Tg (Tan Delta)",
+          "value": "236\u00b0C",
+          "unit": ""
+        },
+        "cte_x": {
+          "label": "CTE X (ppm/\u00b0C)",
+          "value": "7.58",
+          "unit": ""
+        },
+        "cte_z": {
+          "label": "CTE Z (ppm/\u00b0C)",
+          "value": "74.87",
+          "unit": ""
+        },
+        "vert_layer_time": {
+          "label": "Vertical Layer Time (min)",
+          "value": "01:10:00",
+          "unit": ""
+        },
+        "vert_temp": {
+          "label": "Vertical Temp (Handheld)",
+          "value": "279\u00b0C",
+          "unit": ""
+        },
+        "oh_layer_time": {
+          "label": "Overhang Layer Time (min)",
+          "value": "01:40:00",
+          "unit": ""
+        },
+        "oh_temp": {
+          "label": "Overhang Temp (Handheld)",
+          "value": "252\u00b0C",
+          "unit": ""
+        }
+      }
+    },
+    {
+      "id": "u350cf",
+      "name": "U-350CF",
+      "properties": {
+        "price": {
+          "label": "Price (EUR per kg)",
+          "value": 43.6,
+          "unit": ""
+        },
+        "base_polymer": {
+          "label": "Base Polymer",
+          "value": "Modified PESU",
+          "unit": ""
+        },
+        "reinforcement": {
+          "label": "Reinforcement",
+          "value": "25% Carbon Fiber",
+          "unit": ""
+        },
+        "density": {
+          "label": "Density (Printed) g/cc",
+          "value": 1.29,
+          "unit": ""
+        },
+        "tensile_strength": {
+          "label": "Tensile Strength (MPa)",
+          "value": "115 / 50.3",
+          "unit": ""
+        },
+        "tensile_modulus": {
+          "label": "Tensile Modulus (GPa)",
+          "value": "11.7 / 3.8",
+          "unit": ""
+        },
+        "flexural_strength": {
+          "label": "Flexural Strength (MPa)",
+          "value": "194.8 / 106.9",
+          "unit": ""
+        },
+        "compressive_strength": {
+          "label": "Compressive Strength (MPa)",
+          "value": "159.3 / 142.0",
+          "unit": ""
+        },
+        "hdt": {
+          "label": "HDT @ 1.82 MPa",
+          "value": "215\u00b0C",
+          "unit": ""
+        },
+        "tg": {
+          "label": "Tg (Tan Delta)",
+          "value": "TBD",
+          "unit": ""
+        },
+        "cte_x": {
+          "label": "CTE X (ppm/\u00b0C)",
+          "value": "8.47",
+          "unit": ""
+        },
+        "cte_z": {
+          "label": "CTE Z (ppm/\u00b0C)",
+          "value": "89.97",
+          "unit": ""
+        },
+        "vert_layer_time": {
+          "label": "Vertical Layer Time (min)",
+          "value": "01:10:00",
+          "unit": ""
+        },
+        "vert_temp": {
+          "label": "Vertical Temp (Handheld)",
+          "value": "279\u00b0C",
+          "unit": ""
+        },
+        "oh_layer_time": {
+          "label": "Overhang Layer Time (min)",
+          "value": "01:40:00",
+          "unit": ""
+        },
+        "oh_temp": {
+          "label": "Overhang Temp (Handheld)",
+          "value": "252\u00b0C",
+          "unit": ""
+        }
+      }
+    }
+  ],
+  "defaults": {
+    "printing_limit_kg_h": 25.0,
+    "width_mm": 540.0,
+    "length_mm": 540.0,
+    "bead_thickness_mm": 10.0,
+    "printing_angle": 45.0,
+    "piece_length_m": 5.0
+  }
+}
